@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">MCOE Student</string>
+    <string name="welcome_to_pes_modern_collage_pune">Welcome to PES Modern College Pune</string>
+    <string name="pes_modern_collage_pune">PES Modern College Pune</string>
+    <string name="login">LOGIN</string>
+    <string name="_5_digit_roll_no">5 Digit Roll No</string>
+    <string name="batch">Batch</string>
+    <string name="student_mobile_number">Student Mobile Number</string>
+    <string name="parent_full_name">Parent Full Name</string>
+    <string name="parent_mobile_number">Parent Mobile Number</string>
+    <string name="academic_year_202x_2x">Academic Year 202X-2X</string>
+    <string-array name="Year_list">
+        <item>Year</item>
+        <item>FE</item>
+        <item>SE</item>
+        <item>TE</item>
+        <item>BE</item>
+    </string-array>
+</resources>
